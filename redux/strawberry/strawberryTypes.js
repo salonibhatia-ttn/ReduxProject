@@ -1,0 +1,2 @@
+export const ADD_STRAWBERRY = 'ADD_STRAWBERRY';
+export const DEL_STRAWBERRY = 'DEL_STRAWBERRY';
